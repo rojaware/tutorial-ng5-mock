@@ -1,6 +1,14 @@
-# TutorialNg5
+# tutorial-ng5-mock
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4 based on Youtube https://www.youtube.com/watch?v=FGStS1hD5Y4 
+
+
+## Steps to create new project
+ng new tutorial-ng5-mock
+cd tuto*
+ng g c employees\displayEmployee --flat --no-spec
+ng g interface models/employee
+ng g c employees\listEmployees --flat --no-spec
 
 ## Development server
 
