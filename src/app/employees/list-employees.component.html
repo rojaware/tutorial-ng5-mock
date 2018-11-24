@@ -1,0 +1,8 @@
+<div syles="text-align:center"> 
+  <h1>
+     {{message}}
+  </h1>
+</div>
+<div *ngFor="let employee of employees">
+  <app-display-employee (childEvent)="message=$event" [employee]="employee"></app-display-employee>
+</div>

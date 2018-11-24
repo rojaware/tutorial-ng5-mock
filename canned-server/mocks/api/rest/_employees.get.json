@@ -1,0 +1,32 @@
+[
+  {
+    "photoPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6c2HNUpEL3bsYgxdzJZzT6L898Dwk4bEWmLGwNXWHbImNXP-L",
+    "gender": "female",
+    "dateOfBirth": "01/18/1990",
+    "contactPreference": "email",
+    "phoneNumber": "444-666-0000",
+    "email": "rufina@gmail.com",
+    "department": 1,
+    "isActive": true
+  },
+  {
+    "photoPath": "http://image.newsis.com/2015/06/03/NISI20150603_0011012434_web.jpg",
+    "gender": "female",
+    "dateOfBirth": "06/11/1990",
+    "contactPreference": "email",
+    "phoneNumber": "416-333-0000",
+    "email": "susan@gmail.com",
+    "department": 1,
+    "isActive": true
+  },
+  {
+    "photoPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPmeGi1LAuH15MzfuHQMz-xeE8Yad4TKIKZ-M0YfkCZunUkEFT",
+    "gender": "male",
+    "dateOfBirth": "06/11/2000",
+    "contactPreference": "email",
+    "phoneNumber": "444-333-0000",
+    "email": "scott@gmail.com",
+    "department": 2,
+    "isActive": true
+  }
+]
