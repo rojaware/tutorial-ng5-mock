@@ -11,7 +11,9 @@ ng g interface models/employee
 ng g c employees\listEmployees --flat --no-spec
 
 ## Development server
-
+1. Start Mock Server : cd canned-server & npm start (it will start port 3000)
+2. Start Angular Server : cd tutorial-ng5-mock & npm run mock
+or 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
